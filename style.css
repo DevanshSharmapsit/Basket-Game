@@ -1,0 +1,32 @@
+section {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-top: 4rem;
+  align-items: center;
+}
+
+button img {
+  max-width: 40px;
+  background-color: brown;
+}
+*{
+  background-color: aquamarine;
+  font-size: larger;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+  font-variant-numeric: lining-nums;
+  tab-size: 0cqmax;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+p{
+  color: green;
+  border-left-color: black;
+  font-size: larger;
+  font-weight: 1000;
+  font-display: 5;
+  column-rule-color: black;
+}
