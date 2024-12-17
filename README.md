@@ -28,6 +28,9 @@ basket-fruit-game
 └── README.md # Project description
 
 
+
+link:
+https://basket-game.vercel.app/
 ---
 
 ## 🎮 How to Play
